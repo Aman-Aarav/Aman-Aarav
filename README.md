@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aman Sharma</h1>
-<h3 align="center">Softare Developer</h3>
+<h3 align="center">Software Developer</h3>
 
 <img align="right" alt="coding" width="300" src="https://media0.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif?cid=ecf05e47v1sqhub40h3vl60mrdiltieatpbhq4uezzhprilw&ep=v1_gifs_related&rid=giphy.gif&ct=g" />
 
