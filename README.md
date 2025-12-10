@@ -1,82 +1,186 @@
 <div align="center">
-  <img src="https://media0.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif?cid=ecf05e47v1sqhub40h3vl60mrdiltieatpbhq4uezzhprilw&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="100"/>
-  <h1>Hi there! I'm Aman Sharma 👋</h1>
-  <h3>SDE-1 | Core C++/QT Specialist in Autonomous Defense & Real-Time GIS</h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Aman+Sharma;Software+Developer+%7C+SDE-1;GIS+%26+Real-time+Systems+Specialist;C%2B%2B+%7C+Qt+%7C+OpenCV+Enthusiast" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://media0.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif?cid=ecf05e47v1sqhub40h3vl60mrdiltieatpbhq4uezzhprilw&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="coding" width="400"/>
+</div>
+
+<br/>
+
+## 👨‍💻 About Me
+
+```cpp
+class AmanSharma {
+public:
+    string role = "Software Developer @ Ci4 - Autonomous Defense";
+    string location = "Bengaluru, Karnataka";
+    vector<string> currentlyLearning = {"Image Processing", "Advanced GIS"};
+    
+    vector<string> expertise = {
+        "C++/Qt Application Development",
+        "Real-time GIS Systems",
+        "Marine Navigation (S57/S63 Charts)",
+        "OpenCV & Computer Vision",
+        "TCP/UDP Socket Programming"
+    };
+    
+    void askMeAbout() {
+        cout << "GIS Solutions | System Architecture | Real-time Communication" << endl;
+    }
+    
+    string contact = "amansharma.geeky@gmail.com";
+};
+```
+
+## 🚀 What I'm Currently Working On
+
+- 🛡️ Building **C++/Qt-based GUI applications** for autonomous defense systems
+- 🗺️ Developing **real-time GIS tools** with S57/S63 navigational chart integration
+- 📡 Implementing **TCP/UDP socket communication** for hardware device integration
+- 🎥 Creating **low-latency video streaming solutions** with OpenCV
+- 🔐 Ensuring **data security** with AES encryption and custom licensing systems
+
+## 💼 Professional Highlights
+
+- 🏆 **Employee of the Month** at Ci4 - Autonomous Defense
+- 🎯 Achieved **100% compliance** across 3 client deployments
+- ⚡ Reduced page load time by **10%** in ReactJS applications
+- 📈 Boosted user retention by **15%** through innovative game mechanics
+- 🥇 **1st Rank** in "The Debug Master 2020" (C, C++, Java, Python)
+
+## 🛠️ Tech Arsenal
+
+### Languages & Core Technologies
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/QML-%2341CD52.svg?style=for-the-badge&logo=qt&logoColor=white" alt="QML"/>
+</p>
+
+### Frameworks & Libraries
+<p align="left">
+  <img src="https://img.shields.io/badge/Qt-%2341CD52.svg?style=for-the-badge&logo=qt&logoColor=white" alt="Qt"/>
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+  <img src="https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/Leaflet-%23199900.svg?style=for-the-badge&logo=leaflet&logoColor=white" alt="Leaflet"/>
+</p>
+
+### Specialized Skills & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/GIS_Systems-00A4E4?style=for-the-badge&logo=qgis&logoColor=white" alt="GIS"/>
+  <img src="https://img.shields.io/badge/TCP/UDP_Sockets-FF6B6B?style=for-the-badge&logo=socket.io&logoColor=white" alt="Sockets"/>
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="WebSockets"/>
+  <img src="https://img.shields.io/badge/AES_Encryption-4A154B?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="Encryption"/>
+  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Unreal_Engine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+</p>
+
+## 💡 Featured Projects
+
+### 🛰️ Professional Work @ Ci4 - Autonomous Defense
+```
+├── Real-time GIS Navigation System (C++/Qt)
+│   ├── S57/S63 marine chart integration
+│   ├── Multi-format map support (GeoTIFF, vector tiles)
+│   └── GeoJSON mission plan export
+│
+├── Hardware Communication Framework
+│   ├── TCP/UDP socket implementation
+│   ├── Real-time sonar & GPS integration
+│   └── Multi-device synchronization
+│
+└── Video Streaming Solution (OpenCV)
+    ├── Picture-in-Picture functionality
+    ├── Low-latency processing
+    └── Multi-camera management
+```
+
+### 🎮 Personal & Past Projects
+- **🌤️ Realtime Weather App** - ReactJS weather application with location-based forecasting
+- **🌍 Earthquake Prediction System** - ML-based model using Python & Jupyter
+- **🎯 First Person Shooting Game** - C++ & Unreal Engine FPS game with AI combat
+- **📱 Heperly Android App** - Java-based versatile Android application
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=FFFFFF" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=0D1117&ring=2E9EF7&fire=2E9EF7&currStreakLabel=2E9EF7" alt="GitHub Streak" height="180"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&text_color=FFFFFF" alt="Top Languages" height="180"/>
+</div>
+
+## 🏆 Achievements & Recognition
+
+<div align="center">
+
+| Achievement | Details |
+|------------|---------|
+| 🌟 **Employee of the Month** | Ci4 - Autonomous Defense |
+| 🥇 **Debug Master 2020** | 1st Rank - C, C++, Java, Python |
+| 📜 **IJSET Publication** | Research Paper (July 2021) |
+| 💯 **Wipro Talent-Next** | 94% Score (2022) |
+| 🎯 **100% Compliance** | 3 Client Deployments |
+
+</div>
+
+## 📚 Education
+
+**Bachelor of Technology in Computer Science**  
+Galgotias University, Greater Noida | 2019 – 2023
+
+**Core Competencies:** Data Structures & Algorithms, OOPs, DBMS, System Design
+
+## 📄 Published Work
+
+**"Design and Implementation for Helperly Application"**  
+International Journal of Science, Engineering and Technology  
+*Volume 9, Issue 4, July 2021*
+
+## 🤝 Let's Connect & Collaborate
+
+<p align="center">
+  <a href="https://linkedin.com/in/aman-sharma-29b635188">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/amansharma_aarav_">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:amansharma.geeky@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1uE9mWEOCSx3TOcdWTkkAcNiRDWamL0dM/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/>
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&color=2E9EF7&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 </div>
 
 ---
 
-## 🚀 Professional Summary
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
 
-[cite_start]I am a self-driven and detail-oriented Software Developer specializing in building **high-performance $C++/QT$ applications** and **real-time GIS tools**[cite: 4]. [cite_start]Currently, as an SDE-1 at Ci4 Autonomous Defense, I focus on system-level problem-solving and delivering production-ready software under demanding field conditions[cite: 5, 6].
-
-* [cite_start]**Domain Expertise:** Real-time GIS, Marine Navigation (S57/S63), TCP/UDP Communication, Computer Vision (OpenCV)[cite: 29, 31, 36].
-* [cite_start]**Key Strengths:** Proven ability to take ownership, lead client meetings, and ensure 100% compliance across client deployments[cite: 5, 34].
-* [cite_start]**Passion:** Turning complex requirements into intuitive user experiences and continuous learning[cite: 6].
-
----
-
-## 💼 Core Experience Highlights
-
-### 🌟 SDE-1 | Ci4 Autonomous Defense (Dec 2023 - Present)
-[cite_start]**Focus:** Developing and designing high-performance $C++/Qt$-based GUI applications for defense systems[cite: 28].
-
-* [cite_start]**Geo-Spatial Integration:** Integrated **S57 and S63 navigational charts** and supported multiple map formats (GeoTIFF, raster, vector tiles) for flexible data visualization[cite: 29, 30].
-* [cite_start]**Real-Time Communications:** Managed real-time communication via **TCP/UDP sockets** for hardware devices like sonar and GPS[cite: 31].
-* [cite_start]**Computer Vision:** Developed video streaming solutions using **OpenCV** and QtMultimedia, including low-latency handling and Picture-in-Picture[cite: 36].
-* [cite_start]**System Security:** Secured data storage using **AES encryption** and custom licensing[cite: 34].
-* [cite_start]**Recognition:** Recognized as **Employee of the Month** for outstanding contributions and successful project trials[cite: 77].
-
-### 💻 Previous Roles
-
-* [cite_start]**ReactJs Developer (MyEra):** Worked on mobile-responsive Shopify app using ReactJS and Redux, reducing page load time by 10%[cite: 42]. [cite_start]Introduced features that cut manual editing efforts by 50%[cite: 44].
-* [cite_start]**Game Developer (Ingenuity Gaming):** Developed casino/slot games, improving the Random Number Generators and ReelDislocator system, boosting user retention by 15%[cite: 48, 50].
-
----
-
-## 🛠️ Tech Stack & Expertise
-
-My skills span across system development, desktop UI, and front-end web mapping:
-
-| Area | Key Technologies |
-| :--- | :--- |
-| **Languages** | [cite_start]**C++**, JavaScript, SQL, HTML/CSS, QML [cite: 19] |
-| **Frameworks/Libraries** | [cite_start]**QT**, **Leaflet**, **OpenCV**, React.Js, Redux, Tailwind [cite: 20] |
-| **Tools/Database** | [cite_start]Git, **MySQL**, Unreal Engine, VS Code [cite: 21] |
-| **Concepts** | [cite_start]Data Structures & Algorithms, OOPs, DBMS [cite: 22] |
-
-<br/>
-
-**⚡ Tech Badges:**
-* ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
-* ![QT](https://img.shields.io/badge/QT-gray?logo=qt)
-* ![OpenCv](https://img.shields.io/badge/OpenCv-blue?logo=openCv)
-* ![GIS](https://img.shields.io/badge/GIS-lightblue?logo=Gis)
-* ![Leaflet](https://img.shields.io/badge/Leaflet-green?logo=Leaflet)
-* ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
-* ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-* ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white)
-* ![UNREAL](https://img.shields.io/badge/unreal-%2320232a.svg?style=plastic&logo=unreal-engine&logoColor=white)
-
----
-
-## 🏆 Projects & Achievements
-
-* [cite_start]**Earthquake Prediction System:** Created a predictive model using Machine Learning (Python/Jupyter) to forecast earthquake details (date, time, lat/long)[cite: 67, 69].
-* [cite_start]**First Person Shooting Game:** Designed a 3D game using **C++** and **Unreal Engine** with player-vs-enemy AI combat mechanics[cite: 70, 72].
-* [cite_start]**Publication:** Co-authored **"Design and Implementation for Helperly Application"** published in the International Journal of Science, Engineering and Technology, July 2021[cite: 79, 82].
-* [cite_start]**Award:** Secured **1st Rank** in "The Debug Master 2020" Quiz Contest[cite: 78].
-
----
-
-## 🤝 Let's Connect!
-
-I'm always open to discussing C++ performance, GIS challenges, and new collaboration opportunities.
-
-* 💬 **Ask me about:** Core C++, QT, Leaflet, JavaScript, GIS, OpenCV
-* 📧 **The best way to reach me:** amansharma.geeky@gmail.com
-* 🔗 **Connect on Socials:**
-    [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-sharma-29b635188)
-    [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amansharma_aarav_)
-
-* 📄 **View my Resume:** [Click Here](https://drive.google.com/file/d/1uE9mWEOCSx3TOcdWTkkAcNiRDWamL0dM/view?usp=sharing)
+<div align="center">
+  
+  **💻 "First, solve the problem. Then, write the code."**
+  
+  📍 Based in Bengaluru | 🎓 B.Tech CSE | 🚀 Passionate about System-Level Innovation
+  
+  ⭐️ From [Aman Sharma](https://github.com/yourusername)
+  
+</div>
