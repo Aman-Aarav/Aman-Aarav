@@ -7,9 +7,9 @@
 
 - 💬 Ask me about **Core C++, QT, Leaflet, JavaScript, GIS**
 
-- 📫 How to reach me **amansharma2001.as@gmail.com**
+- 📫 How to reach me **amansharma.geeky@gmail.com**
 
-- 📄 Resume: [https://drive.google.com/file/d/1wK9i7RHm5bJ7D02hEl3mmS0tzm9XyOAH/view?usp=drive_link](https://drive.google.com/file/d/1wK9i7RHm5bJ7D02hEl3mmS0tzm9XyOAH/view?usp=drive_link)
+- 📄 Resume: [https://drive.google.com/file/d/1uE9mWEOCSx3TOcdWTkkAcNiRDWamL0dM/view?usp=sharing](https://drive.google.com/file/d/1uE9mWEOCSx3TOcdWTkkAcNiRDWamL0dM/view?usp=sharing)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amansharma_aarav_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-sharma-29b635188) 
