@@ -3,9 +3,9 @@
 
 <img align="right" alt="coding" width="300" src="https://media0.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif?cid=ecf05e47v1sqhub40h3vl60mrdiltieatpbhq4uezzhprilw&ep=v1_gifs_related&rid=giphy.gif&ct=g" />
 
-- 🌱 I’m currently learning **OpenCV, GIS**
+- 🌱 I’m currently learning **Image Processing, Advanced GIS**
 
-- 💬 Ask me about **Core C++, QT, Leaflet, JavaScript, GIS**
+- 💬 Ask me about **Core C++, QT, Leaflet, JavaScript, GIS, OpenCV**
 
 - 📫 How to reach me **amansharma.geeky@gmail.com**
 
