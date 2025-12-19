@@ -71,22 +71,16 @@ I enjoy building **high-performance, low-latency systems** and clean, scalable G
 International Journal of Science, Engineering and Technology  
 *Volume 9, Issue 4, July 2021*
 
-## Let's Connect & Collaborate
+### Contact Me
+- 📧 Email: **amansharma.geeky@gmail.com**
+- 📄 Resume:  
+  👉 https://drive.google.com/file/d/1uE9mWEOCSx3TOcdWTkkAcNiRDWamL0dM/view
 
-<p align="center">
-  <a href="https://linkedin.com/in/aman-sharma-29b635188">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://instagram.com/amansharma_aarav_">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="mailto:amansharma.geeky@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://drive.google.com/file/d/1uE9mWEOCSx3TOcdWTkkAcNiRDWamL0dM/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/>
-  </a>
-</p>
+
+
+## Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-sharma-29b635188)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amansharma_aarav_)
 
 ---
 
