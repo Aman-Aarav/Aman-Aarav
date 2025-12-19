@@ -16,7 +16,7 @@ I enjoy building **high-performance, low-latency systems** and clean, scalable G
 
 
 
-##  What I'm Currently Working On
+## What I'm Currently Working On
 
 -  Building **C++/Qt-based GUI applications** 
 -  Strengthening knowledge of **socket programming, REST APIs, and real-time systems**
@@ -25,14 +25,14 @@ I enjoy building **high-performance, low-latency systems** and clean, scalable G
 
 
 
-###  Currently Learning
+### Currently Learning
 - **Image Processing (OpenCV)**
 - **Advanced GIS Concepts**
 - **Performance Optimization in C++**
 
 
 
-### 💬 Ask Me About
+### Ask Me About
 - **Core C++ (Memory, STL, Multithreading)**
 - **Qt (Event Loop, Signals/Slots, Networking)**
 - **GIS, Leaflet, Maps Integration**
@@ -41,7 +41,7 @@ I enjoy building **high-performance, low-latency systems** and clean, scalable G
 
 
 
-##  Tech Stack
+## Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
