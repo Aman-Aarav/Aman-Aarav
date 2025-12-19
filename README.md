@@ -8,48 +8,32 @@
 
 <br/>
 
-## 👨‍💻 About Me
+---
 
-```cpp
-class AmanSharma {
-public:
-    string role = "Software Developer @ Ci4 - Autonomous Defense";
-    string location = "Bengaluru, Karnataka";
-    vector<string> currentlyLearning = {"Image Processing", "Advanced GIS"};
-    
-    vector<string> expertise = {
-        "C++/Qt Application Development",
-        "Real-time GIS Systems",
-        "Marine Navigation (S57/S63 Charts)",
-        "OpenCV & Computer Vision",
-        "TCP/UDP Socket Programming"
-    };
-    
-    void askMeAbout() {
-        cout << "GIS Solutions | System Architecture | Real-time Communication" << endl;
-    }
-    
-    string contact = "amansharma.geeky@gmail.com";
-};
-```
+## About Me
+- Software Developer with strong experience in **Core C++ and Qt**
+- Worked on **real-time systems, networking, and GIS-based applications**
+- Comfortable with both **backend (C++/Qt)** and **frontend (QSS, CSS, JS, React)**
 
-## 🚀 What I'm Currently Working On
+---
 
-- 🛡️ Building **C++/Qt-based GUI applications** for autonomous defense systems
-- 🗺️ Developing **real-time GIS tools** with S57/S63 navigational chart integration
-- 📡 Implementing **TCP/UDP socket communication** for hardware device integration
-- 🎥 Creating **low-latency video streaming solutions** with OpenCV
-- 🔐 Ensuring **data security** with AES encryption and custom licensing systems
+##  What I'm Currently Working On
 
-## 💼 Professional Highlights
+-  Building **C++/Qt-based GUI applications** 
+-  Strengthening knowledge of **socket programming, REST APIs, and real-time systems**
+-  Developing **GIS-based mapping features** with Leaflet
+-  Creating **low-latency video streaming solutions** with OpenCV
 
-- 🏆 **Employee of the Month** at Ci4 - Autonomous Defense
-- 🎯 Achieved **100% compliance** across 3 client deployments
-- ⚡ Reduced page load time by **10%** in ReactJS applications
-- 📈 Boosted user retention by **15%** through innovative game mechanics
-- 🥇 **1st Rank** in "The Debug Master 2020" (C, C++, Java, Python)
+---
 
-## 🛠️ Tech Arsenal
+###  Currently Learning
+- **Image Processing (OpenCV)**
+- **Advanced GIS Concepts**
+- **Performance Optimization in C++**
+
+---
+
+##  Tech Arsenal
 
 ### Languages & Core Technologies
 <p align="left">
@@ -84,63 +68,7 @@ public:
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
 </p>
 
-## 💡 Featured Projects
-
-### 🛰️ Professional Work @ Ci4 - Autonomous Defense
-```
-├── Real-time GIS Navigation System (C++/Qt)
-│   ├── S57/S63 marine chart integration
-│   ├── Multi-format map support (GeoTIFF, vector tiles)
-│   └── GeoJSON mission plan export
-│
-├── Hardware Communication Framework
-│   ├── TCP/UDP socket implementation
-│   ├── Real-time sonar & GPS integration
-│   └── Multi-device synchronization
-│
-└── Video Streaming Solution (OpenCV)
-    ├── Picture-in-Picture functionality
-    ├── Low-latency processing
-    └── Multi-camera management
-```
-
-### 🎮 Personal & Past Projects
-- **🌤️ Realtime Weather App** - ReactJS weather application with location-based forecasting
-- **🌍 Earthquake Prediction System** - ML-based model using Python & Jupyter
-- **🎯 First Person Shooting Game** - C++ & Unreal Engine FPS game with AI combat
-- **📱 Heperly Android App** - Java-based versatile Android application
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=FFFFFF" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=0D1117&ring=2E9EF7&fire=2E9EF7&currStreakLabel=2E9EF7" alt="GitHub Streak" height="180"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&text_color=FFFFFF" alt="Top Languages" height="180"/>
-</div>
-
-## 🏆 Achievements & Recognition
-
-<div align="center">
-
-| Achievement | Details |
-|------------|---------|
-| 🌟 **Employee of the Month** | Ci4 - Autonomous Defense |
-| 🥇 **Debug Master 2020** | 1st Rank - C, C++, Java, Python |
-| 📜 **IJSET Publication** | Research Paper (July 2021) |
-| 💯 **Wipro Talent-Next** | 94% Score (2022) |
-| 🎯 **100% Compliance** | 3 Client Deployments |
-
-</div>
-
-## 📚 Education
-
-**Bachelor of Technology in Computer Science**  
-Galgotias University, Greater Noida | 2019 – 2023
-
-**Core Competencies:** Data Structures & Algorithms, OOPs, DBMS, System Design
+---
 
 ## 📄 Published Work
 
