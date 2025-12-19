@@ -8,14 +8,14 @@
 
 <br/>
 
----
+
 
 ## About Me
 - Software Developer with strong experience in **Core C++ and Qt**
 - Worked on **real-time systems, networking, and GIS-based applications**
 - Comfortable with both **backend (C++/Qt)** and **frontend (QSS, CSS, JS, React)**
 
----
+
 
 ##  What I'm Currently Working On
 
@@ -24,14 +24,14 @@
 -  Developing **GIS-based mapping features** with Leaflet
 -  Creating **low-latency video streaming solutions** with OpenCV
 
----
+
 
 ###  Currently Learning
 - **Image Processing (OpenCV)**
 - **Advanced GIS Concepts**
 - **Performance Optimization in C++**
 
----
+
 
 ##  Tech Stack
 
@@ -55,7 +55,7 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
 </p>
 
----
+
 
 ## Published Work
 
@@ -81,7 +81,7 @@ International Journal of Science, Engineering and Technology
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=2E9EF7&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Aman-Aarav&color=2E9EF7&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 </div>
 
 ---
