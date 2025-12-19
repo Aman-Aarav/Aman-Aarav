@@ -56,8 +56,6 @@ I enjoy building **high-performance, low-latency systems** and clean, scalable G
   <img src="https://img.shields.io/badge/GIS_Systems-00A4E4?style=for-the-badge&logo=qgis&logoColor=white" alt="GIS"/>
   <img src="https://img.shields.io/badge/TCP/UDP_Sockets-FF6B6B?style=for-the-badge&logo=socket.io&logoColor=white" alt="Sockets"/>
   <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="WebSockets"/>
-  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=sql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/Unreal_Engine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
