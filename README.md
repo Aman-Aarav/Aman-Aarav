@@ -36,7 +36,7 @@ I enjoy building **high-performance, low-latency systems** and clean, scalable G
 - **Core C++ (Memory, STL, Multithreading)**
 - **Qt (Event Loop, Signals/Slots, Networking)**
 - **GIS, Leaflet, Maps Integration**
-- **OpenCV Basics**
+- **OOPs**
 - **REST APIs/Socket Programming (TCP/UDP)**
 
 
