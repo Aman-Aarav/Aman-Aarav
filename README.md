@@ -80,10 +80,6 @@ International Journal of Science, Engineering and Technology
   </a>
 </p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aman-Aarav&color=2E9EF7&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
-</div>
-
 ---
 
 <div align="center">
@@ -91,11 +87,9 @@ International Journal of Science, Engineering and Technology
 </div>
 
 <div align="center">
+
+  *Actively building projects in C++, Qt, and GIS. Open to challenging software roles.*
   
-  **💻 "First, solve the problem. Then, write the code."**
-  
-  📍 Based in Bengaluru | 🎓 B.Tech CSE | 🚀 Passionate about System-Level Innovation
-  
-  ⭐️ From [Aman Sharma](https://github.com/yourusername)
+  From [Aman Sharma](https://github.com/Aman-Aarav)
   
 </div>
