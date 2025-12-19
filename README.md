@@ -1,20 +1,76 @@
 <h1 align="center">Hi 👋, I'm Aman Sharma</h1>
-<h3 align="center">Software Developer</h3>
+<h3 align="center">Software Developer | C++ | Qt | GIS | Image Processing</h3>
 
-<img align="right" alt="coding" width="300" src="https://media0.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif?cid=ecf05e47v1sqhub40h3vl60mrdiltieatpbhq4uezzhprilw&ep=v1_gifs_related&rid=giphy.gif&ct=g" />
+<img align="right" alt="coding" width="300" 
+src="https://media0.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" />
 
-- 🌱 I’m currently learning **Image Processing, Advanced GIS**
+---
 
-- 💬 Ask me about **Core C++, QT, Leaflet, JavaScript, GIS, OpenCV**
+### 👨‍💻 About Me
+- 🔹 Software Developer with strong experience in **Core C++ and Qt**
+- 🔹 Worked on **real-time systems, networking, and GIS-based applications**
+- 🔹 Passionate about **Image Processing, Mapping, and Performance-critical systems**
+- 🔹 Comfortable with both **backend (C++/Qt)** and **frontend (JS, React, Leaflet)**
 
-- 📫 How to reach me **amansharma.geeky@gmail.com**
+---
 
-- 📄 Resume: [https://drive.google.com/file/d/1uE9mWEOCSx3TOcdWTkkAcNiRDWamL0dM/view?usp=sharing](https://drive.google.com/file/d/1uE9mWEOCSx3TOcdWTkkAcNiRDWamL0dM/view?usp=sharing)
+### 🌱 Currently Learning
+- **Image Processing (OpenCV)**
+- **Advanced GIS Concepts**
+- **Performance Optimization in C++**
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amansharma_aarav_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-sharma-29b635188) 
+---
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/QT-gray?logo=qt) ![HTML5](https://img.shields.io/badge/OpenCv-blue?logo=openCv) ![HTML5](https://img.shields.io/badge/REST%20Api-yellow)  ![HTML5](https://img.shields.io/badge/Leaflet-green?logo=Leaflet)  ![HTML5](https://img.shields.io/badge/GIS-lightblue?logo=Gis)   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![UNREAL](https://img.shields.io/badge/unreal-%2320232a.svg?style=plastic&logo=unreal-engine&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) 
+### 💬 Ask Me About
+- **Core C++ (Memory, STL, Multithreading)**
+- **Qt (Event Loop, Signals/Slots, Networking)**
+- **Socket Programming (TCP/UDP)**
+- **GIS, Leaflet, Maps Integration**
+- **OpenCV Basics**
+- **REST APIs**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+### 📫 Contact Me
+- 📧 Email: **amansharma.geeky@gmail.com**
+- 📄 Resume:  
+  👉 https://drive.google.com/file/d/1uE9mWEOCSx3TOcdWTkkAcNiRDWamL0dM/view
+
+---
+
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-sharma-29b635188)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amansharma_aarav_)
+
+---
+
+## 💻 Tech Stack
+
+### 🧠 Languages & Core
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=plastic&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+
+### 🧩 Frameworks & Libraries
+![Qt](https://img.shields.io/badge/Qt-%2341CD52.svg?style=plastic&logo=qt&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=plastic&logo=opencv&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white)
+
+### 🗺️ GIS & Mapping
+![GIS](https://img.shields.io/badge/GIS-%23007ACC.svg?style=plastic)
+![Leaflet](https://img.shields.io/badge/Leaflet-%23199900.svg?style=plastic&logo=leaflet&logoColor=white)
+
+### 🌐 Web & APIs
+![REST API](https://img.shields.io/badge/REST_API-%23FF9800.svg?style=plastic)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
+
+### 🗄️ Database & Tools
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=plastic&logo=mysql&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-%2320232a.svg?style=plastic&logo=unreal-engine&logoColor=white)
+
+---
+
+⭐ *Actively building projects in C++, Qt, and GIS. Open to challenging software roles.*
