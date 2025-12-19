@@ -25,14 +25,14 @@ I enjoy building **high-performance, low-latency systems** and clean, scalable G
 
 
 
-### Currently Learning
+## Currently Learning
 - **Image Processing (OpenCV)**
 - **Advanced GIS Concepts**
 - **Performance Optimization in C++**
 
 
 
-### Ask Me About
+## Ask Me About
 - **Core C++ (Memory, STL, Multithreading)**
 - **Qt (Event Loop, Signals/Slots, Networking)**
 - **GIS, Leaflet, Maps Integration**
@@ -86,9 +86,7 @@ International Journal of Science, Engineering and Technology
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/>
   </a>
 </p>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=2E9EF7&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
-</div>
+
 
 ---
 
