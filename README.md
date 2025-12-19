@@ -11,9 +11,8 @@
 
 
 ## About Me
-- Software Developer with strong experience in **Core C++ and Qt**
-- Worked on **real-time systems, networking, and GIS-based applications**
-- Comfortable with both **backend (C++/Qt)** and **frontend (QSS, CSS, JS, React)**
+Software Developer specializing in **Core C++ and Qt**, with hands-on experience in **real-time systems, networking, and GIS-based applications**.  
+I enjoy building **high-performance, low-latency systems** and clean, scalable GUIs. Comfortable with both **backend (C++/Qt)** and **frontend (QSS, CSS, JS, React)**
 
 
 
