@@ -70,6 +70,7 @@ I enjoy building **high-performance, low-latency systems** and clean, scalable G
 **"Design and Implementation for Helperly Application"**  
 International Journal of Science, Engineering and Technology  
 *Volume 9, Issue 4, July 2021*
+[Read Paper](https://www.ijset.in/volume-9-issue-4/)
 
 ## Let's Connect & Collaborate
 <p align="center">
