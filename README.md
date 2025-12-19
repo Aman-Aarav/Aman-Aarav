@@ -33,6 +33,15 @@
 
 
 
+### 💬 Ask Me About
+- **Core C++ (Memory, STL, Multithreading)**
+- **Qt (Event Loop, Signals/Slots, Networking)**
+- **GIS, Leaflet, Maps Integration**
+- **OpenCV Basics**
+- **REST APIs/Socket Programming (TCP/UDP)**
+
+
+
 ##  Tech Stack
 
 <p align="left">
