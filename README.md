@@ -33,35 +33,22 @@
 
 ---
 
-##  Tech Arsenal
+##  Tech Stack
 
-### Languages & Core Technologies
 <p align="left">
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/QML-%2341CD52.svg?style=for-the-badge&logo=qt&logoColor=white" alt="QML"/>
-</p>
-
-### Frameworks & Libraries
-<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html&logoColor=white" alt="HTML"/>
   <img src="https://img.shields.io/badge/Qt-%2341CD52.svg?style=for-the-badge&logo=qt&logoColor=white" alt="Qt"/>
   <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
   <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
   <img src="https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
   <img src="https://img.shields.io/badge/Leaflet-%23199900.svg?style=for-the-badge&logo=leaflet&logoColor=white" alt="Leaflet"/>
-</p>
-
-### Specialized Skills & Tools
-<p align="left">
   <img src="https://img.shields.io/badge/GIS_Systems-00A4E4?style=for-the-badge&logo=qgis&logoColor=white" alt="GIS"/>
   <img src="https://img.shields.io/badge/TCP/UDP_Sockets-FF6B6B?style=for-the-badge&logo=socket.io&logoColor=white" alt="Sockets"/>
   <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="WebSockets"/>
-  <img src="https://img.shields.io/badge/AES_Encryption-4A154B?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="Encryption"/>
-  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=sql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/Unreal_Engine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal"/>
@@ -70,13 +57,13 @@
 
 ---
 
-## 📄 Published Work
+## Published Work
 
 **"Design and Implementation for Helperly Application"**  
 International Journal of Science, Engineering and Technology  
 *Volume 9, Issue 4, July 2021*
 
-## 🤝 Let's Connect & Collaborate
+## Let's Connect & Collaborate
 
 <p align="center">
   <a href="https://linkedin.com/in/aman-sharma-29b635188">
