@@ -59,8 +59,7 @@ I enjoy building **high-performance, low-latency systems** and clean, scalable G
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/Unreal_Engine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal"/>
 </p>
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=plastic&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+
 
 
 
