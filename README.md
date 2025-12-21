@@ -58,12 +58,9 @@ I enjoy building **high-performance, low-latency systems** and clean, scalable G
   <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="WebSockets"/>
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/Unreal_Engine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal"/>
-  ![Qt](https://img.shields.io/badge/Qt-%2341CD52.svg?style=plastic&logo=qt&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=plastic&logo=opencv&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white)
 </p>
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=plastic&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
 
 
 
